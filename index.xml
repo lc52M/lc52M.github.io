@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>零度温柔</title>
+        <link>https://lc52M.github.io/</link>
+        <description>心若向阳，无谓悲伤。</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>2330629752@qq.com (落尘)</managingEditor>
+            <webMaster>2330629752@qq.com (落尘)</webMaster><lastBuildDate>Thu, 20 Oct 2022 22:56:27 &#43;0800</lastBuildDate>
+            <atom:link href="https://lc52M.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Test</title>
+    <link>https://lc52M.github.io/test/</link>
+    <pubDate>Thu, 20 Oct 2022 22:56:27 &#43;0800</pubDate>
+    <author>落尘</author>
+    <guid>https://lc52M.github.io/test/</guid>
+    <description><![CDATA[1111111111111111111]]></description>
+</item>
+</channel>
+</rss>
