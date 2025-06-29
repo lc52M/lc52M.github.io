@@ -1,0 +1,6 @@
+node_modules
+docs/.vitepress/cache
+docs/.vitepress/dist
+tree.md
+test.js
+test1.js
